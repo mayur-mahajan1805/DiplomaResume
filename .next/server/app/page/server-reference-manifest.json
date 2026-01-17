@@ -1,0 +1,65 @@
+{
+  "node": {
+    "40bb7e6ab1bf7a99e3f04f8d15c27e6bdb1b44290b": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "handleResumeAnalysis",
+          "filename": "src/lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "handleResumeAnalysis",
+      "filename": "src/lib/actions.ts"
+    },
+    "40acf2401c42843dbc75deff100af5247620259866": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "handleJobRecommendation",
+          "filename": "src/lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "handleJobRecommendation",
+      "filename": "src/lib/actions.ts"
+    },
+    "607985f9dcb4457f5e63577d7192053fd2f891106c": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "handleSkillGapAnalysis",
+          "filename": "src/lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "handleSkillGapAnalysis",
+      "filename": "src/lib/actions.ts"
+    },
+    "40a94ec0e0217e1963fae1a73c2d2b5599a3bbc626": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "handleCareerQuestion",
+          "filename": "src/lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "handleCareerQuestion",
+      "filename": "src/lib/actions.ts"
+    }
+  },
+  "edge": {}
+}
