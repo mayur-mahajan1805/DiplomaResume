@@ -7,7 +7,7 @@
 
 > "Empowering job seekers with transparent, ethical, and data-driven career intelligence."
 
----
+--------
 
 ## 📊 Project Impact & Metrics
 
